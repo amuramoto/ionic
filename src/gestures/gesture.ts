@@ -76,7 +76,7 @@ export class Gesture {
    * @private
    */
   public direction: string;
-  
+
   /**
    * @private
    */
