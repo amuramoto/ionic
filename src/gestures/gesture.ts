@@ -71,7 +71,7 @@ export class Gesture {
    * @private
    */
   public element: HTMLElement;
-  
+
   /**
    * @private
    */

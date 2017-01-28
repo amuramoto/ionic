@@ -382,7 +382,7 @@ export class Alert extends ViewController {
 export class AlertController {
 
   constructor(private _app: App) {}
-  
+
   /**
    * Creates an instance of [Alert](../Alert).
    * @param {Object} opts Options object that sets the appearance and behavior of the Alert. 
